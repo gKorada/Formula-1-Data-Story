@@ -1,6 +1,6 @@
 # Formula-1-Data-Story
 
-Key Findings 
+Key Findings:
 There truly is no "Dominant" team in Formula 1, however there is a group of dominant teams that often rotate for control. Newer teams are also startig to overpower teams with pedigree, and are infact on track to overtake older teams throough number of teams and points gained. In regards to points gained, it's a combination of quality and quantity of laps that is the best, but when forced to choose, the quality of laps far outweighs the number of laps.
 
 Data Source:

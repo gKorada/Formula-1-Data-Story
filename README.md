@@ -9,9 +9,12 @@ Data Source:
 
 Problems Tackled/Questions Poised:
 
-1.What team is the most dominant in F1?
-2.Are newer teams able to compete with older teams with better pedigree?
-3.Is it Quanitity or Quality when it comes to laps and points?
+1. What team is the most dominant in F1?
+
+2. Are newer teams able to compete with older teams with better pedigree?
+
+3. Is it Quanitity or Quality when it comes to laps and points?
+
 
 Methods:
 
